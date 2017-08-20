@@ -5,19 +5,7 @@ List of Programs:
 
 1. Scientific Calculator using Switch statement
 
-2. Pattern using loop Statement:
-*
-* *
-* * *
-* * * *
-* * * * *
-
-        1       
-      1 2 1     
-    1 2 3 2 1   
-  1 2 3 4 3 2 1 
-1 2 3 4 5 4 3 2 1
-
+2. Patterns using loop Statement
 
 3. Prime Numbers from 1 to number entered by user
  
